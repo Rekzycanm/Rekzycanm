@@ -12,15 +12,14 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/852691788552077372)](https://discord.com/users/852691788552077372)
 
 
-js 
-class RekzyCnm {
+class Rekzycanm {
     constructor(options) {
         this.name = "Baran",
         this.age = "19",
         this.sex = "he / him",
-        this.length = "1,83",
+        this.length = "1,84",
         this.job = "teacher",
     };
 }
 
-export default RekzyCnm
+export default Rekzycanm
